@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]" parallel="tests">
+  <test thread-count="5" verbose="0" name="Test(failed)" parallel="tests">
+    <classes>
+      <class name="Com.model.MercuryTsTest1">
+        <methods>
+          <include name="enterApplicationURL"/>
+          <include name="dbConnectionClosed"/>
+          <include name="captureScreenshot"/>
+          <include name="loginwithInvalidds"/>
+          <include name="maximizeBrowser"/>
+          <include name="loginwithValidds"/>
+          <include name="closeBrowser"/>
+          <include name="deleteAllCookies"/>
+          <include name="openBrowser"/>
+          <include name="getAllCookies"/>
+          <include name="verifySignOnPage"/>
+        </methods>
+      </class> <!-- Com.model.MercuryTsTest1 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

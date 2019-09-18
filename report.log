@@ -1,0 +1,61 @@
+2019-08-29 22:42:50 INFO  MercuryTsTest1:127 - Chrome browser is opened successfully
+2019-08-29 22:43:01 INFO  MercuryTsTest1:115 - Application URL is entered successfully
+2019-08-29 22:43:03 INFO  MercuryTsTest1:103 - Chrome browser is maximized succesfully
+2019-08-29 22:43:04 INFO  MercuryTsTest1:89 - osCsid
+2019-08-29 22:43:04 INFO  MercuryTsTest1:44 - Title of welcome page is: Welcome: Mercury Tours
+2019-08-29 22:43:04 INFO  MercuryTsTest1:49 - Current web page url is:http://www.newtours.demoaut.com/mercurywelcome.php
+2019-08-29 22:44:31 INFO  MercuryTsTest1:53 - User has login into Mercury Tours Application successfully
+2019-08-29 22:44:31 DEBUG MercuryTsTest1:58 - Flight finder image is displayed: true
+2019-08-29 22:44:35 INFO  MercuryTsTest1:97 - Screenshot has captured successfully
+2019-08-29 22:44:35 INFO  MercuryTsTest1:89 - osCsid
+2019-08-29 22:44:35 ERROR MercuryTsTest1:67 - Sign on page title is: Sign-on: Mercury Tours
+2019-08-29 22:44:36 INFO  MercuryTsTest1:97 - Screenshot has captured successfully
+2019-08-29 22:44:36 INFO  MercuryTsTest1:89 - osCsid
+2019-08-29 22:44:38 WARN  MercuryTsTest1:81 - Sign on image is displayed: true
+2019-08-29 22:44:39 INFO  MercuryTsTest1:97 - Screenshot has captured successfully
+2019-08-29 22:44:39 INFO  MercuryTsTest1:109 - deleteAllCookies method under AfterClass
+2019-08-29 22:44:39 INFO  MercuryTsTest1:120 - dbConnectionClosed method under AfterTest
+2019-08-29 22:44:39 INFO  MercuryTsTest1:133 - Chrome browser is closed successfully
+2019-08-29 23:01:42 INFO  MercuryTsTest1:127 - Chrome browser is opened successfully
+2019-08-29 23:01:46 INFO  MercuryTsTest1:115 - Application URL is entered successfully
+2019-08-29 23:01:47 INFO  MercuryTsTest1:103 - Chrome browser is maximized succesfully
+2019-08-29 23:01:47 INFO  MercuryTsTest1:89 - osCsid
+2019-08-29 23:01:47 INFO  MercuryTsTest1:44 - Title of welcome page is: Welcome: Mercury Tours
+2019-08-29 23:01:47 INFO  MercuryTsTest1:49 - Current web page url is:http://www.newtours.demoaut.com/mercurywelcome.php
+2019-08-29 23:04:15 INFO  MercuryTsTest1:53 - User has login into Mercury Tours Application successfully
+2019-08-29 23:04:15 DEBUG MercuryTsTest1:58 - Flight finder image is displayed: true
+2019-08-29 23:04:19 INFO  MercuryTsTest1:97 - Screenshot has captured successfully
+2019-08-29 23:04:19 INFO  MercuryTsTest1:89 - osCsid
+2019-08-29 23:04:19 ERROR MercuryTsTest1:67 - Sign on page title is: Sign-on: Mercury Tours
+2019-08-29 23:04:19 INFO  MercuryTsTest1:97 - Screenshot has captured successfully
+2019-08-29 23:04:19 INFO  MercuryTsTest1:89 - osCsid
+2019-08-29 23:04:22 WARN  MercuryTsTest1:81 - Sign on image is displayed: true
+2019-08-29 23:04:23 INFO  MercuryTsTest1:97 - Screenshot has captured successfully
+2019-08-29 23:04:23 INFO  MercuryTsTest1:109 - deleteAllCookies method under AfterClass
+2019-08-29 23:04:23 INFO  MercuryTsTest1:120 - dbConnectionClosed method under AfterTest
+2019-08-29 23:04:23 INFO  MercuryTsTest1:133 - Chrome browser is closed successfully
+2019-08-30 23:51:05 INFO  MercuryTsTest1:127 - Chrome browser is opened successfully
+2019-08-30 23:51:14 INFO  MercuryTsTest1:115 - Application URL is entered successfully
+2019-08-30 23:51:17 INFO  MercuryTsTest1:103 - Chrome browser is maximized succesfully
+2019-08-30 23:51:18 INFO  MercuryTsTest1:89 - osCsid
+2019-08-30 23:51:18 INFO  MercuryTsTest1:44 - Title of welcome page is: Welcome: Mercury Tours
+2019-08-30 23:51:18 INFO  MercuryTsTest1:49 - Current web page url is:http://www.newtours.demoaut.com/mercurywelcome.php
+2019-08-30 23:51:27 INFO  MercuryTsTest1:53 - User has login into Mercury Tours Application successfully
+2019-08-30 23:51:28 DEBUG MercuryTsTest1:58 - Flight finder image is displayed: true
+2019-08-30 23:51:34 INFO  MercuryTsTest1:97 - Screenshot has captured successfully
+2019-08-30 23:51:34 INFO  MercuryTsTest1:89 - osCsid
+2019-08-30 23:51:34 ERROR MercuryTsTest1:67 - Sign on page title is: Sign-on: Mercury Tours
+2019-08-30 23:51:35 INFO  MercuryTsTest1:97 - Screenshot has captured successfully
+2019-08-30 23:51:35 INFO  MercuryTsTest1:89 - osCsid
+2019-08-30 23:51:39 WARN  MercuryTsTest1:81 - Sign on image is displayed: true
+2019-08-30 23:51:39 INFO  MercuryTsTest1:97 - Screenshot has captured successfully
+2019-08-30 23:51:40 INFO  MercuryTsTest1:109 - deleteAllCookies method under AfterClass
+2019-08-30 23:51:40 INFO  MercuryTsTest1:120 - dbConnectionClosed method under AfterTest
+2019-08-30 23:51:43 INFO  MercuryTsTest1:133 - Chrome browser is closed successfully
+2019-09-06 17:37:49 INFO  MercuryTsTest1:127 - Chrome browser is opened successfully
+2019-09-06 17:37:53 INFO  MercuryTsTest1:115 - Application URL is entered successfully
+2019-09-06 17:37:54 INFO  MercuryTsTest1:103 - Chrome browser is maximized succesfully
+2019-09-06 17:37:54 INFO  MercuryTsTest1:89 - osCsid
+2019-09-06 17:37:55 INFO  MercuryTsTest1:44 - Title of welcome page is: Welcome: Mercury Tours
+2019-09-06 17:37:56 INFO  MercuryTsTest1:49 - Current web page url is:http://www.newtours.demoaut.com/mercurywelcome.php
+2019-09-06 17:40:38 INFO  MercuryTsTest1:53 - User has login into Mercury Tours Application successfully
