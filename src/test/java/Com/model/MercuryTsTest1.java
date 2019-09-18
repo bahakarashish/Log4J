@@ -31,7 +31,7 @@ import org.testng.annotations.AfterSuite;
 
 public class MercuryTsTest1  
 {
-
+System.out.println("Github changes")
 public WebDriver driver;
 static Logger logger =Logger.getLogger(MercuryTsTest1.class);
 @Test(priority=1,description="Verify that invalid user able to login into Mercury Tours application by using invalid username and password")	 
