@@ -31,12 +31,14 @@ import org.testng.annotations.AfterSuite;
 
 public class MercuryTsTest1  
 {
-System.out.println("Github changes")
+
+
 public WebDriver driver;
 static Logger logger =Logger.getLogger(MercuryTsTest1.class);
 @Test(priority=1,description="Verify that invalid user able to login into Mercury Tours application by using invalid username and password")	 
 public void loginwithValidds() 
 {
+	System.out.println("Github changes");
 PropertyConfigurator.configure("G:\\New Selenium Workspace-9-08-2019\\Log4jTestngDemo\\src\\test\\resource\\log4j.properties");		  
 //Verify title of web page
 String act_title1=driver.getTitle();		  
